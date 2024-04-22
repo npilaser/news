@@ -1,0 +1,24 @@
+{
+  "name": "palischakhelvia",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npilaser/news.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"vansumerenirma": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
